@@ -1,0 +1,6 @@
+id|nombre|direccion|cuentas
+1|Alice|Calle Principal|CA,CC
+2|Bob|Avenida Secundaria|CC
+3|Charlie|Calle Terciaria|CA
+4|Dave|Avenida Cuaternaria|CC
+5|Eve|Calle Quintenaria|CA,CC
